@@ -36,4 +36,22 @@ Questões como: "O que está fazendo com que os clientes deixem de comprar na St
    <div align="center">
   <img src="https://github.com/user-attachments/assets/e440d797-ab62-4ce7-8703-3b36e4ed9fca" />
   </div>
+
+  <br>
+
+* Mês de maior retenção:
+
+Após realizar a análise de Cohort, identificamos que o maior índice de retenção ocorreu no Cohort  de **Abril de 2014**, com taxas de retenção **superiores a 80% no décimo segundo mês subsequente**. 
+Esses resultados podem estar associados a campanhas promocionais específicas realizadas no início do ano, como liquidações de estoque.
+
+* Meses de menor retenção:
+
+Após realizar a análise de Cohort, identificamos que existem muitos meses com resultado **0%** em relação ao mês subsequente.
+
+* Recomendação:
+
+**Criar campanhas urgentes para melhorar o cenário.** 
+**Campanhas personalizados, descontos para clientes recentes e programas de fidelidade.**
+
+
   
